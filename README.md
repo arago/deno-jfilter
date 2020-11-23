@@ -1,6 +1,6 @@
 
 # deno-jfilter
-[![Gitpod ready-to-code](https://img.shields.io/badge/Gitpod-ready--to--code-blue?logo=gitpod)](https://gitpod.io/#https://github.com/Drache93/deno-jfilter)
+[![Gitpod ready-to-code](https://img.shields.io/badge/Gitpod-ready--to--code-blue?logo=gitpod)](https://gitpod.io/#https://github.com/arago/deno-jfilter)
 
 ## Install
 
@@ -8,7 +8,7 @@
   `brew install deno`
 
 - Install jfilter
-  `deno install --allow-read -n jfilter https://cdn.jsdelivr.net/gh/Drache93/deno-jfilter@1.4.3/main.ts`
+  `deno install --allow-read -n jfilter https://cdn.jsdelivr.net/gh/arago/deno-jfilter@1.4.3/main.ts`
 
 ## Run
 
